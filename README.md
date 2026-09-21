@@ -24,6 +24,12 @@ sheet (HCS) at six crossings Parker Solar Probe made on the inbound pass of its
   the sheet. That side comes from B_R before and after the crossing and from
   the crossing direction. Dashed, two-headed arrows mark crossings where the
   direction is undetermined.
+- **Hand-picked or automated.** Radio buttons under the legend switch between
+  the six intervals chosen by eye (H1-H6) and the automated intervals: the
+  clear sector boundaries a multiscale MVA scan finds between H1 and H6, where
+  the strahl and B_R both reverse (switchbacks and weak-strahl sheets are left
+  out). In the automated view the hand-picked windows are grey bands along the
+  path.
 - **Tick box** under the legend: *arrows show sheet motion past PSP* turns the
   arrows to point the way each sheet moves past the spacecraft instead: the
   sign of the plasma velocity along the normal relative to PSP,
