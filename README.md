@@ -37,6 +37,15 @@ sheet (HCS) at six crossings Parker Solar Probe made on the inbound pass of its
 
 Other B_R reversals between the six intervals are not drawn.
 
+## Time series
+
+![Time series, 1-3 September 2026](timeseries_E29.png)
+
+The data behind the viewer, 1-3 September 2026. From the top: the field in each
+interval's MVA frame; SPAN-i velocity (RTN) and ion energy flux; the strahl
+asymmetry and the 304 eV electron pitch-angle distribution; B_R R²; and the
+field in RTN. Vertical lines bound the MVA windows, H1-H6.
+
 ## Status
 
 Preliminary analysis; not peer reviewed. The page states the date it was built.
