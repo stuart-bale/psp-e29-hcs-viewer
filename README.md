@@ -50,6 +50,11 @@ field in RTN. Vertical lines bound the MVA windows, H1-H6.
 
 Preliminary analysis; not peer reviewed. The page states the date it was built.
 
+## Privacy
+
+Visits to the viewer are counted with GoatCounter, which sets no cookies and
+keeps no IP addresses.
+
 ## Data
 
 NASA Parker Solar Probe:
